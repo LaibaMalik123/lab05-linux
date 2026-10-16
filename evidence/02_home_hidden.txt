@@ -1,0 +1,64 @@
+total 40305
+drwxr-xr-x 1 User 197121        0 Oct 16 10:13 ./
+drwxr-xr-x 1 User 197121        0 Jan 15  2026 ../
+drwxr-xr-x 1 User 197121        0 Sep 24 19:32 .VirtualBox/
+-rw-r--r-- 1 User 197121     3895 Oct  2 11:35 .bash_history
+drwxr-xr-x 1 User 197121        0 Sep 18 14:21 .copilot/
+-rw-r--r-- 1 User 197121      101 Oct  2 09:18 .gitconfig
+-rw-r--r-- 1 User 197121       26 Oct  2 10:20 .lesshst
+drwxr-xr-x 1 User 197121        0 Sep 22 17:06 .local/
+-rw-r--r-- 1 User 197121      174 Jun 17 11:23 .packettracer
+drwxr-xr-x 1 User 197121        0 Sep 26 00:13 .ssh/
+drwxr-xr-x 1 User 197121        0 May 19 22:43 .templateengine/
+drwxr-xr-x 1 User 197121        0 Jun 25 01:03 .vscode/
+drwxr-xr-x 1 User 197121        0 Jun 25 01:02 .vscode-shared/
+drwxr-xr-x 1 User 197121        0 Jan 15  2026 AppData/
+lrwxrwxrwx 1 User 197121       29 Jan 15  2026 Application Data -> /c/Users/User/AppData/Roaming/
+drwxr-xr-x 1 User 197121        0 Jun 17 12:38 Cisco Packet Tracer 9.0.0/
+drwxr-xr-x 1 User 197121        0 Jan 15  2026 Contacts/
+lrwxrwxrwx 1 User 197121       57 Jan 15  2026 Cookies -> /c/Users/User/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 User 197121        0 Feb 20  2026 Documents/
+drwxr-xr-x 1 User 197121        0 Oct 16 08:07 Downloads/
+-rw-r--r-- 1 User 197121       97 Sep 22 17:43 Fact.py
+drwxr-xr-x 1 User 197121        0 Jan 15  2026 Favorites/
+drwxr-xr-x 1 User 197121        0 Oct 15 16:58 IntelGraphicsProfiles/
+drwxr-xr-x 1 User 197121        0 Sep 26 01:42 Lab02/
+drwxr-xr-x 1 User 197121        0 Oct  2 10:49 Lab03/
+drwxr-xr-x 1 User 197121        0 Oct  2 11:14 LaibaMalik123.github.io/
+drwxr-xr-x 1 User 197121        0 Jan 15  2026 Links/
+lrwxrwxrwx 1 User 197121       27 Jan 15  2026 Local Settings -> /c/Users/User/AppData/Local/
+lrwxrwxrwx 1 User 197121       23 Jan 15  2026 My Documents -> /c/Users/User/Documents/
+-rw-r--r-- 1 User 197121 24379392 Oct 15 00:56 NTUSER.DAT
+-rw-r--r-- 1 User 197121  1118208 Oct 16 09:45 NTUSER.DAT{cb698cb3-f299-11f0-b038-f8cab86388e2}.TxR.0.regtrans-ms
+-rw-r--r-- 1 User 197121    12288 Oct 15 17:13 NTUSER.DAT{cb698cb3-f299-11f0-b038-f8cab86388e2}.TxR.0.regtrans-ms.cnpf
+-rw-r--r-- 1 User 197121  1118208 Oct 16 09:45 NTUSER.DAT{cb698cb3-f299-11f0-b038-f8cab86388e2}.TxR.1.regtrans-ms
+-rw-r--r-- 1 User 197121     4096 Oct 16 09:45 NTUSER.DAT{cb698cb3-f299-11f0-b038-f8cab86388e2}.TxR.1.regtrans-ms.cnpf
+-rw-r--r-- 1 User 197121  1118208 Oct 16 09:45 NTUSER.DAT{cb698cb3-f299-11f0-b038-f8cab86388e2}.TxR.2.regtrans-ms
+-rw-r--r-- 1 User 197121     4096 Oct 16 09:45 NTUSER.DAT{cb698cb3-f299-11f0-b038-f8cab86388e2}.TxR.2.regtrans-ms.cnpf
+-rw-r--r-- 1 User 197121    73728 Oct 16 09:45 NTUSER.DAT{cb698cb3-f299-11f0-b038-f8cab86388e2}.TxR.blf
+-rw-r--r-- 1 User 197121    45056 Oct 15 17:12 NTUSER.DAT{cb698cb3-f299-11f0-b038-f8cab86388e2}.TxR.blf.cnpf
+-rw-r--r-- 1 User 197121    73728 Oct 15 00:56 NTUSER.DAT{cb698cb4-f299-11f0-b038-f8cab86388e2}.TM.blf
+-rw-r--r-- 1 User 197121     4096 Oct 15 00:56 NTUSER.DAT{cb698cb4-f299-11f0-b038-f8cab86388e2}.TM.blf.cnpf
+-rw-r--r-- 1 User 197121   561152 Oct 15 00:56 NTUSER.DAT{cb698cb4-f299-11f0-b038-f8cab86388e2}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 User 197121     4096 Oct 15 00:56 NTUSER.DAT{cb698cb4-f299-11f0-b038-f8cab86388e2}.TMContainer00000000000000000001.regtrans-ms.cnpf
+-rw-r--r-- 1 User 197121   561152 Aug 13 20:14 NTUSER.DAT{cb698cb4-f299-11f0-b038-f8cab86388e2}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 User 197121     4096 Oct 15 00:56 NTUSER.DAT{cb698cb4-f299-11f0-b038-f8cab86388e2}.TMContainer00000000000000000002.regtrans-ms.cnpf
+lrwxrwxrwx 1 User 197121       65 Jan 15  2026 NetHood -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+drwxr-xr-x 1 User 197121        0 Oct 15 16:59 OneDrive/
+lrwxrwxrwx 1 User 197121       65 Jan 15  2026 PrintHood -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 User 197121       54 Jan 15  2026 Recent -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 User 197121        0 Jan 15  2026 Saved Games/
+drwxr-xr-x 1 User 197121        0 Jan 15  2026 Searches/
+lrwxrwxrwx 1 User 197121       54 Jan 15  2026 SendTo -> /c/Users/User/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 User 197121       58 Jan 15  2026 Start Menu -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Start Menu/
+lrwxrwxrwx 1 User 197121       57 Jan 15  2026 Templates -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 User 197121        0 Sep 24 18:55 VirtualBox VMs/
+drwxr-xr-x 1 User 197121        0 Jul 29 01:28 WPS Cloud/
+drwxr-xr-x 1 User 197121        0 Jul 29 01:16 WPS Cloud Files/
+drwxr-xr-x 1 User 197121        0 Feb  6  2026 WPSDrive/
+-rw-r--r-- 1 User 197121        0 Feb 20  2026 arp
+drwxr-xr-x 1 User 197121        0 Oct 16 10:13 lab05-linux/
+-rw-r--r-- 1 User 197121  5972992 Jan 15  2026 ntuser.dat.LOG1
+-rw-r--r-- 1 User 197121  5996544 Jan 15  2026 ntuser.dat.LOG2
+-rw-r--r-- 1 User 197121       20 Jan 15  2026 ntuser.ini
+drwxr-xr-x 1 User 197121        0 May 19 23:50 source/

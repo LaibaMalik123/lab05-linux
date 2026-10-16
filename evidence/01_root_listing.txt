@@ -1,0 +1,18 @@
+total 8264
+drwxr-xr-x 1 User 197121       0 Sep 25 23:09 ./
+drwxr-xr-x 1 User 197121       0 Sep 25 23:09 ../
+-rw-r--r-- 1 User 197121   18765 Aug 20 04:03 LICENSE.txt
+-rw-r--r-- 1 User 197121  312948 Aug 20 04:03 ReleaseNotes.html
+drwxr-xr-x 1 User 197121       0 Sep 25 23:09 bin/
+drwxr-xr-x 1 User 197121       0 Sep 25 23:09 cmd/
+drwxr-xr-x 1 User 197121       0 Sep 25 23:09 dev/
+drwxr-xr-x 1 User 197121       0 Sep 25 23:09 etc/
+-rwxr-xr-x 1 User 197121  135016 Aug 20 03:47 git-bash.exe*
+-rwxr-xr-x 1 User 197121  134488 Aug 20 03:47 git-cmd.exe*
+drwxr-xr-x 1 User 197121       0 Sep 25 23:08 mingw64/
+dr-xr-xr-x 9 User 197121       0 Oct 16 10:13 proc/
+drwxr-xr-x 1 User 197121       0 Oct 16 10:13 tmp/
+-rw-r--r-- 1 User 197121 1932122 Sep 25 23:09 unins000.dat
+-rwxr-xr-x 1 User 197121 4449992 Sep 25 22:57 unins000.exe*
+-rw-r--r-- 1 User 197121   25396 Sep 25 23:09 unins000.msg
+drwxr-xr-x 1 User 197121       0 Sep 25 23:09 usr/
